@@ -6,6 +6,7 @@ Light Soul est un écosystème complet de moteurs numériques, d’outils créat
 Il rassemble un OS neuronal, un IDE de simulation, un launcher GDI+, un portail immersif et un langage dédié : **SoulScript**.
 
 ---
+<img width="1901" height="868" alt="image" src="https://github.com/user-attachments/assets/f3903b60-2954-4497-824c-caa0eb52ca07" />
 
 ## 🚀 Écosystème Light Soul
 
