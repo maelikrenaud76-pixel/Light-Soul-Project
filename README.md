@@ -44,7 +44,8 @@ Serveur local permettant de charger un script depuis le site dans l’IDE :
 cd /nomduprojet
 node launcherBridge.js
 ```
-<img width="559" height="29" alt="image" src="https://github.com/user-attachments/assets/c8b5a4d5-6ce1-41a2-a58a-00023f7917f4" />
+<img width="567" height="21" alt="image" src="https://github.com/user-attachments/assets/b2d81bf2-1404-4a67-8cc7-580538968cc4" />
+
 
 ---
 
